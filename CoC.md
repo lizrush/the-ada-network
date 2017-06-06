@@ -19,7 +19,7 @@ This code of conduct applies to all of the Ada Network Slack spaces, including p
 
 ### Harassment includes: ##
 
-- Offensive comments related to race, sex, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, or religion.
+- Offensive comments related to race, ethnicity, sex, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, or religion.
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 - Deliberate misgendering or use of “dead” or rejected names of The Ada Network members.
 - Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
@@ -38,6 +38,7 @@ This code of conduct applies to all of the Ada Network Slack spaces, including p
 
 If another member communicates boundaries, such as "stop DMing me", "leave me alone", or "I’m not discussing this with you", you are expected to comply immediately. 
 
+Examples of harassment are considered sustained or continuing patterns after being warned about the behavior.
 
 ## Content limitations
 Classes of content which we deem to be unsuitable for the group include:
