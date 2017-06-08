@@ -23,7 +23,7 @@ This code of conduct applies to all of the Ada Network Slack spaces, including p
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 - Deliberate misgendering or use of “dead” or rejected names of The Ada Network members.
 - Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
-- Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
+- Physical contact without consent and/or after request to stop, and simulated physical contact (written or pictorial) after a request to stop.
 - Threats of violence.
 - Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
 - Deliberate intimidation.
