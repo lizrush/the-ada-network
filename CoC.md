@@ -57,6 +57,7 @@ Reports are handled by the Community Team. The volunteers' names will be made av
 
 The Community Team currently consists of:
 - [@lizmrush](https://theadanetwork.slack.com/team/lizmrush)
+- [@redherring](https://theadanetwork.slack.com/team/redherring)
 - [@cotarg](https://theadanetwork.slack.com/team/cotarg)
 - [@squirrelious](https://theadanetwork.slack.com/team/squirrelious)
 
