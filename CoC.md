@@ -57,6 +57,7 @@ Reports are handled by the Community Team. The volunteers' names will be made av
 
 The Community Team currently consists of:
 - [@lizmrush](https://theadanetwork.slack.com/team/lizmrush)
+- [@cotarg](https://theadanetwork.slack.com/team/cotarg)
 
 If you are being harassed by a member of The Ada Network, notice that someone else is being harassed, or have any other concerns, please contact any member of the Community Team directly via DM or all members of the community team via group DM.
 
