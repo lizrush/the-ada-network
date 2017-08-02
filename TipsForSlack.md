@@ -6,6 +6,13 @@
 * Don't spam channels with links. Share what you found interesting or what your opinion is when you post. Check to see if someone has already posted the article, video, tweet, etc before you. If someone already has shared the thing you wanted to share, start a conversation!
 * Don't be afraid to DM! Slack is an excellent way to connect with other Ada alums who you might not already know. 
 
+## The #jobs channel
+The #jobs channel is a great place to find a new job, post an job listing, or just keep an eye on who is hiring. We encourage you to post jobs that you find that might be relevant to all levels of Adie experience.
+
+To make the #jobs channel as helpful as possible, be sure to include a sentence or two about the job you are posting. If you heard about the job through a friend that you trust, mention that! If someone reached out to you on linkedin but you have no connections to the person or company, post a notice that folks might want to research for themselves. Try to avoid spamming the channel with random job posts that you find online--a good rule of thumb is to ask yourself if the post you are making has more value than a post on a job board. Sometimes it's easy to accidentally send too many posts to the #jobs channel because we all want to be helpful, but as long as you take the time to explain why you are posting this particular job then the benefit to other Adies will be evident!
+
+If you are looking for a job, please post in the #jobs channel! Post a blurb about what you've been up to recently, what kind of job or tech stack you are looking for, as well as any additional information that will help others when keeping an eye out (e.g. "I prefer mid-size startups" or "Looking for remote work" are helpful to include). Be sure to follow up with any leads shared with you and say thanks when appropriate!
+
 ## Using @here vs @channel & Do Not Disturb
 Here’s an overview of the differences:
 > “The @here command lets you grab the attention of team members in a channel who are currently active. The @channel command, on the other hand, will send a message to all team members of the channel, whether they are currently signed in and active or not.”
@@ -15,7 +22,7 @@ The @channel command is for emergencies or major channel-wide announcements that
 
 For non-urgent announcements that you want to bring to the attention of everyone who is active in the slack channel, @here is best. It will alert those of us who are already online and in the slack, but it won’t interrupt folks who are not online.
 
-We also have default Do Not Disturb setting on this slack. Notifications are automatically disabled from 22:00 to 8:00 (Get a good night’s sleep!👵). This setting is applied to everyone as they join the slack, but you can change your own Do Not Disturb settings in your profile's settings if you’d like to change the applicable hours or turn it off completely.
+We also have default Do Not Disturb setting on this slack. Notifications are automatically disabled from 22:00 to 8:00 (Get a good night’s sleep! 👵). This setting is applied to everyone as they join the slack, but you can change your own Do Not Disturb settings in your profile's settings if you’d like to change the applicable hours or turn it off completely.
 
 Please use your best judgement regarding @here and @channel. We don’t want to interfere with everyone’s ability to do their jobs, live their lives, relax, etc because their Ada slack is blowing up. If you have questions or if you have an announcement that you are unsure of how to handle, feel free to message me and we can come up with a strategy for disseminating the information.
 
