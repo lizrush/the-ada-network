@@ -11,9 +11,9 @@
 
 ## The Ada Network Community Slack Code of Conduct ##
 
-First and foremost, The Ada Network is committed to providing a harssment-free and inclusive experience for everyone. 
+First and foremost, The Ada Network is committed to providing a harssment-free and inclusive experience for everyone.
 
-“The Ada Network” in this document refers to the Ada Developers Academy Alumna group & corresponding slack at [theadanetwork.slack.com](http://theadanetwork.slack.com). 
+“The Ada Network” in this document refers to the Ada Developers Academy Alumna group & corresponding slack at [theadanetwork.slack.com](http://theadanetwork.slack.com).
 
 This code of conduct applies to all of the Ada Network Slack spaces, including public channels, private channels and direct messages. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
@@ -36,7 +36,7 @@ This code of conduct applies to all of the Ada Network Slack spaces, including p
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
 
-If another member communicates boundaries, such as "stop DMing me", "leave me alone", or "I’m not discussing this with you", you are expected to comply immediately. 
+If another member communicates boundaries, such as "stop DMing me", "leave me alone", or "I’m not discussing this with you", you are expected to comply immediately.
 
 Examples of harassment are considered sustained or continuing patterns after being warned about the behavior.
 
@@ -60,18 +60,19 @@ The Community Team currently consists of:
 - [@redherring](https://theadanetwork.slack.com/team/redherring)
 - [@cotarg](https://theadanetwork.slack.com/team/cotarg)
 - [@squirrelious](https://theadanetwork.slack.com/team/squirrelious)
+- [@becca](https://theadanetwork.slack.com/team/becca)
 
 If you are being harassed by a member of The Ada Network, notice that someone else is being harassed, or have any other concerns, please contact any member of the Community Team directly via DM or all members of the community team via group DM.
 
 This code of conduct applies to The Ada Network slack space, but if you are being harassed by a member of The Ada Network outside our slack, we still want to know about it. We will take all good-faith reports of harassment by The Ada Network members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The group reserves the right to exclude people from The Ada Network slack based on their past behavior, including behavior outside The Ada Network slack and behavior towards people who are not the slack.
 
-In order to protect volunteer admins, we reserve the right to reject any report we believe to have been made in bad faith. 
+In order to protect volunteer admins, we reserve the right to reject any report we believe to have been made in bad faith.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of The Ada Network members or the general public. We will not name harassment victims without their consent.
 
 ## Consequences ##
 
-Acting according to our code of conduct should not leave you in an embarrassing situation. That said, our group is large and ever growing. Use good judgement in what you share and how you treat others. 
+Acting according to our code of conduct should not leave you in an embarrassing situation. That said, our group is large and ever growing. Use good judgement in what you share and how you treat others.
 
 Participants asked to stop any harassing behavior are expected to comply immediately and may face expulsion from the group. Participants sharing inappropriate content or spamming the slack will be asked to change their behavior. Repeated failures to comply will result in removal from the group.
 
