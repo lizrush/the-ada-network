@@ -6,6 +6,9 @@
 * Don't spam channels with links. Share what you found interesting or what your opinion is when you post. Check to see if someone has already posted the article, video, tweet, etc before you. If someone already has shared the thing you wanted to share, start a conversation!
 * Don't be afraid to DM! Slack is an excellent way to connect with other Ada alums who you might not already know. 
 
+## The #general channel
+The #general channel is a group-wide channel to which you will automatically be added upon joining slack. This channel is restricted: since everyone is in this channel and you can't leave the channel, posting is limited to members of the Community Team for the purpose of making announcements and letting members know about community updates. Miscellaneous chit chat should take place in the #random channel.
+
 ## The #jobs channel
 The #jobs channel is a great place to find a new job, post an job listing, or just keep an eye on who is hiring. We encourage you to post jobs that you find that might be relevant to all levels of Adie experience.
 
@@ -36,4 +39,4 @@ Pin an item to make a message 'stick' to a channel. Everyone can see the pinned 
 
 ## Archiving & Paid Slack Plans
 
-At this point in time, we do not have the funds to pay for access to the archive of our Slack team. It costs $7/month per user. We don't now qualify for the non-profit status. Any questions related to paying for a Slack plan may be directed back to this document. In order to ensure everyone has equal access, we will remain on the free plan.
+At this point in time, we do not have the funds to pay for access to the archive of our Slack team. It costs $7/month per user. We don't qualify for the non-profit status. Any questions related to paying for a Slack plan may be directed back to this document. In order to ensure everyone has equal access, we will remain on the free plan.
