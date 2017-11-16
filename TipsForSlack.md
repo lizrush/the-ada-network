@@ -10,13 +10,13 @@
 The #general channel is a group-wide channel to which you will automatically be added upon joining slack. This channel is restricted: since everyone is in this channel and you can't leave the channel, posting is limited to members of the Community Team for the purpose of making announcements and letting members know about community updates. Miscellaneous chit chat should take place in the #random channel.
 
 ## The #jobs channel
-The #jobs channel is a great place to find a new job, post an job listing, or just keep an eye on who is hiring. We encourage you to post jobs that you find that might be relevant to all levels of Adie experience.
+The #jobs channel is a great place to find a new job, post a job listing, or just keep an eye on who is hiring. We encourage you to post jobs that you find that might be relevant to all levels of Adie experience.
 
 To make the #jobs channel as helpful as possible, be sure to include a sentence or two about the job you are posting. If you heard about the job through a friend that you trust, mention that! If someone reached out to you on linkedin but you have no connections to the person or company, post a notice that folks might want to research for themselves. Try to avoid spamming the channel with random job posts that you find online--a good rule of thumb is to ask yourself if the post you are making has more value than a post on a job board. Sometimes it's easy to accidentally send too many posts to the #jobs channel because we all want to be helpful, but as long as you take the time to explain why you are posting this particular job then the benefit to other Adies will be evident!
 
 If you are looking for a job, please post in the #jobs channel! Post a blurb about what you've been up to recently, what kind of job or tech stack you are looking for, as well as any additional information that will help others when keeping an eye out (e.g. "I prefer mid-size startups" or "Looking for remote work" are helpful to include). Be sure to follow up with any leads shared with you and say thanks when appropriate!
 
-Remember that some Adies who are looking for jobs may not feel comfortable with their job hunt being public knowledge or may be worried that their current employer may find out. Please treat any posts in the #jobs channel confidentially unless you are given explicit permission to share that someone is looking for a job. 
+Remember that some Adies who are looking for jobs may not feel comfortable with their job hunt being public knowledge or may be worried that their current employer may find out. Please treat any posts in the #jobs or #freelancing channels confidentially unless you are given explicit permission to share that someone is looking for a job. 
 
 ## Using @here vs @channel & Do Not Disturb
 Here’s an overview of the differences:
