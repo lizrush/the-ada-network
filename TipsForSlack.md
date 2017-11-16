@@ -9,6 +9,8 @@
 ## The #general channel
 The #general channel is a group-wide channel to which you will automatically be added upon joining slack. This channel is restricted: since everyone is in this channel and you can't leave the channel, posting is limited to members of the Community Team for the purpose of making announcements and letting members know about community updates. Miscellaneous chit chat should take place in the #random channel.
 
+Anouncements for the #general channel may include updates such as changes to the Code of Conduct, this Tips document, or to welcome new Adies that are joining the channel. If you have something you'd like to share with everyone announcement style, please message the community team and we'll help you get the information out in an announcement or guide you to the right channel for posting.
+
 ## The #jobs channel
 The #jobs channel is a great place to find a new job, post a job listing, or just keep an eye on who is hiring. We encourage you to post jobs that you find that might be relevant to all levels of Adie experience.
 
