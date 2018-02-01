@@ -27,7 +27,7 @@ Here’s an overview of the differences:
 
 The @channel command is for emergencies or major channel-wide announcements that are time sensitive or organizational in nature (example: “@channel there is an armed man in downtown, please stay inside your building”). Please only use @channel for things that everyone needs to know immediately, as @channel sends an push notification to everyone’s phones as well as emails. A good measure is to ask yourself, “If someone is on vacation or in a meeting, do they need to be alerted about this right away?”. If not, then @channel is not appropriate.
 
-For non-urgent announcements that you want to bring to the attention of everyone who is active in the slack channel, @here is best. It will alert those of us who are already online and in the slack, but it won’t interrupt folks who are not online.
+For non-urgent announcements that you want to bring to the attention of everyone who is active in the slack channel, @here is best. It will alert those of us who are already online and in the slack, but it won’t interrupt folks who are not online. Keep in mind that folks who are not online when you send the @here notification will see it when they log in and become active! Also, please help fight alert fatigue by only sending one notification per announcement.
 
 We also have default Do Not Disturb setting on this slack. Notifications are automatically disabled from 22:00 to 8:00 (Get a good night’s sleep! 👵). This setting is applied to everyone as they join the slack, but you can change your own Do Not Disturb settings in your profile's settings if you’d like to change the applicable hours or turn it off completely.
 
