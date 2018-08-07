@@ -56,11 +56,13 @@ Please perform a quick self-check when posting potentially unsuitable content. I
 Reports are handled by the Community Team. The volunteers' names will be made available in this document and any change to the volunteer list will be announced in the #general channel.
 
 The Community Team currently consists of:
-- [@lizmrush](https://theadanetwork.slack.com/team/lizmrush)
-- [@redherring](https://theadanetwork.slack.com/team/redherring)
-- [@cotarg](https://theadanetwork.slack.com/team/cotarg)
-- [@squirrelious](https://theadanetwork.slack.com/team/squirrelious)
-- [@becca](https://theadanetwork.slack.com/team/becca)
+- Calla Patel - @calla
+- Heather Herrington - @redherring
+- Miriam Cortes - @meeeeedium
+- Sasha Pierson - @squirrelious
+- Rebecca Tolmach - @becca
+- Erin Bond - @erin_bond
+- Sue Kim - @suewhite
 
 If you are being harassed by a member of The Ada Network, notice that someone else is being harassed, or have any other concerns, please contact any member of the Community Team directly via DM or all members of the community team via group DM.
 
