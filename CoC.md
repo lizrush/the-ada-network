@@ -58,7 +58,6 @@ Reports are handled by the Community Team. The volunteers' names will be made av
 The Community Team currently consists of:
 - Calla Patel - @calla
 - Zheng Cao - @Zheng Cao C9 - she/her
-- Sasha Pierson - @squirrelious
 - Rebecca Tolmach - @becca
 - Sue Kim - @suewhite
 
