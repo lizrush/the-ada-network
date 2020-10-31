@@ -60,6 +60,7 @@ The Community Team currently consists of:
 - Zheng Cao - @Zheng Cao C9 - she/her
 - Rebecca Tolmach - @becca
 - Sue Kim - @suewhite
+- Victoria Sawchuk - @vsawchuck
 
 If you are being harassed by a member of The Ada Network, notice that someone else is being harassed, or have any other concerns, please contact any member of the Community Team directly via DM or all members of the community team via group DM.
 
