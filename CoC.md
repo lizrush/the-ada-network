@@ -13,7 +13,7 @@
 
 First and foremost, The Ada Network is committed to providing a harssment-free and inclusive experience for everyone.
 
-“The Ada Network” in this document refers to the Ada Developers Academy Alumna group & corresponding slack at [theadanetwork.slack.com](http://theadanetwork.slack.com).
+“The Ada Network” in this document refers to the Ada Developers Academy Alums group & corresponding slack at [theadanetwork.slack.com](http://theadanetwork.slack.com).
 
 This code of conduct applies to all of the Ada Network Slack spaces, including public channels, private channels and direct messages. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
@@ -60,8 +60,8 @@ The Community Team currently consists of:
 - Zheng Cao - @Zheng Cao C9 - she/her
 - Rebecca Tolmach - @becca
 - Sue Kim - @suewhite
-- Victoria Sawchuk - @vsawchuk
-- Delia - @Delia C15 
+- Victoria Swayne - @vsawchuk
+- Delia - @Delia C15
 
 If you are being harassed by a member of The Ada Network, notice that someone else is being harassed, or have any other concerns, please contact any member of the Community Team directly via DM or all members of the community team via group DM.
 
