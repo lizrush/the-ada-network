@@ -56,10 +56,8 @@ Please perform a quick self-check when posting potentially unsuitable content. I
 Reports are handled by the Community Team. The volunteers' names will be made available in this document and any change to the volunteer list will be announced in the #general channel.
 
 The Community Team currently consists of:
-- Calla Patel - @calla
 - Zheng Cao - @Zheng Cao C9 - she/her
 - Rebecca Tolmach - @becca
-- Sue Kim - @suewhite
 - Victoria Swayne - @vsawchuk
 - Delia - @Delia C15
 
